@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*
+
+if __name__ == '__main__':
+ name, city, age ="Phill G.", "London", 20
+ print(name, city, age)
+
+#or
+
+ if __name__ == '__main__':
+  name, ling="Rui Mota", "Phyton"
+  print(f"\n\nWelcome to {ling}, {name}\n")
